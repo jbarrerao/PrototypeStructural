@@ -1,0 +1,7 @@
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeStructural\PrototypeStructural\bin\Debug\PrototypeStructural.exe.config
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeStructural\PrototypeStructural\bin\Debug\PrototypeStructural.exe
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeStructural\PrototypeStructural\bin\Debug\PrototypeStructural.pdb
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeStructural\PrototypeStructural\obj\Debug\PrototypeStructural.csprojAssemblyReference.cache
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeStructural\PrototypeStructural\obj\Debug\PrototypeStructural.csproj.CoreCompileInputs.cache
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeStructural\PrototypeStructural\obj\Debug\PrototypeStructural.exe
+E:\Plan carrera\Gof\patternsCreation\Prototype\PrototypeStructural\PrototypeStructural\obj\Debug\PrototypeStructural.pdb
